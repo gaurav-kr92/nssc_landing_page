@@ -6,7 +6,7 @@ c.height = innerHeight;
 class Particle {
   constructor() {
     this.init();
-    this.count = 12;
+    this.count = 5;
     this.opacity = 1;
   }
   init() {
